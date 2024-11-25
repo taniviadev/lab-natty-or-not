@@ -6,7 +6,7 @@ Este vídeo de 1 minuto traz perspectivas do uso de IAs Generativas para serviç
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[Hedra](https://www.hedra.com/)** para sintetização de voz e geração de avatar virtual;
-- IA Generativa **[invideo AI](https://ai.invideo.io/)**geração de vídeo;
+- IA Generativa **[invideo AI](https://ai.invideo.io/)** geração de vídeo;
 - Software **[Kdenlive](https://kdenlive.org/)** para edição de vídeo.
 
 ## :musical_note: Outras fontes

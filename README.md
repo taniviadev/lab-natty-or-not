@@ -17,7 +17,7 @@ Este vídeo de 1 minuto traz perspectivas do uso de IAs Generativas para serviç
 O "ChatGPT" foi escolhido para elaboração do roteiro do personagem que falaria de forma simples sobre as possibilidades do uso de IAs Generativas em bibliotecas. Também, foi gerado um segundo vídeo no "invideo Ai" para oferecer uma visualização dos cenários previstos. Na edição final do vídeo, foi utilizada a aplicação "Kdenlive" que se trata de um recurso gratuito e livre.
 
 ## 🚀 Resultados
-o vídeo proporciona um vislumbre de cenários possíveis com a utilização de IAs Generativas no ambiente de biblioteca.
+O vídeo proporciona um vislumbre de cenários possíveis com a utilização de IAs Generativas no ambiente de biblioteca.
 
 **[LINK DO VIDEO AQUI](https://youtu.be/U6Ef-gz6k7M)**
 

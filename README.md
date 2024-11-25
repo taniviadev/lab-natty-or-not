@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Futuro das IAs Generativas em Serviços de Biblioteca ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 1 minuto traz perspectivas do uso de IAs Generativas para serviços de biblioteca.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[Hedra](https://www.hedra.com/)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[invideo AI](https://ai.invideo.io/)**geração de vídeo;
+- Software **[Kdenlive](https://kdenlive.org/)** para edição de vídeo.
+
+## :musical_note: Outras fontes
+- Música **[Pixabay](https://pixabay.com/pt/music/funk-groovy-ambient-funk-201745/)** trilha de áudio do vídeo.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O "ChatGPT" foi escolhido para elaboração do roteiro do personagem que falaria de forma simples sobre as possibilidades do uso de IAs Generativas em bibliotecas. Também, foi gerado um segundo vídeo no "invideo Ai" para oferecer uma visualização dos cenários previstos. Na edição final do vídeo, foi utilizada a aplicação "Kdenlive" que se trata de um recurso gratuito e livre.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+o vídeo proporciona um vislumbre de cenários possíveis com a utilização de IAs Generativas no ambiente de biblioteca.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+**[LINK DO VIDEO AQUI](https://youtu.be/U6Ef-gz6k7M)**
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi divertido porque eu pude usar um avatar contrastante com uma perspectiva futurista, mas que está disposto e otimista com as possibilidades que as IAs Generativas trazem para a realidade.

@@ -1,4 +1,4 @@
-# O Futuro das IAs Generativas em Serviços de Biblioteca ;)
+# O Futuro das IAs Generativas em Serviços de Biblioteca 📖
 
 ## 📒 Descrição
 Este vídeo de 1 minuto traz perspectivas do uso de IAs Generativas para serviços de biblioteca.
